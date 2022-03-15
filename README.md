@@ -14,13 +14,13 @@
 [Live Demo Link](https://github.com/Fatima-hub333/Hello-World-Microverse-Project)
 
 
-## Getting Started
+<!-- ## Getting Started
 
 **This is an example of how you have to work with github workflow guidelines.**
 
 
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps. -->
 
 <!-- ### Prerequisites
 
